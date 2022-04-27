@@ -52,7 +52,7 @@ A Xray backend framework that can easily support many panels.
 
 ### 一键安装
 ```
-bash <(curl -Ls https://raw.githubusercontents.com/bannedbook/XrayR/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontents.com/bannedbook/XrayR/main/install.sh)
 ```
 
 ### 使用Docker部署软件
@@ -74,7 +74,7 @@ bash <(curl -Ls https://raw.githubusercontents.com/bannedbook/XrayR/master/insta
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/bannedbook/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/bannedbook/XrayR/blob/main/LICENSE)
 
 ## Telgram
 
